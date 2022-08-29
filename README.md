@@ -12,8 +12,15 @@ NRC: 7318
 
 **1.3. Objetivos Específicos:**
 
-*   
+*   Analizar la operación de filtros pasabajas RC y RL
 
+*   Analizar la operación de filtros rechazabanda
+
+*   Analizar un circuito en cuanto a resonancia en serie
+
+*   Comprender el funcionamiento de la impedancia en un circuito RLC en paralelo.
+
+*   Determinar el ancho de banfa de circuitos que son resonantes. 
 
 
 **2. Marco Teórico**
@@ -65,6 +72,12 @@ NRC: 7318
 **4. Video**
 
 **5. Conclusiones**
+
+- En conclusion los circuitos presentados en estos capitulos tienen inductancia y capacitancia, dando como propiedad a los circuitos resonantes, los cuales son importantes en algunas aplicaciones del ser humano.
+
+- Algunos aparatos utilizados por el hombre contienen este tipo de circuitos, los aparatos de comunicacion como la telvision o un receptor de radio contienen en su interior circuitos de resonancia que son utiles al momento de transmitir informacion. 
+
+- Los filtros pasivo se utilizan en varias aplicaciones como los aparatos de sonido, los cuales son meididos con los decibeles el cual es el nivel de frecuencia de sonido que el oido humano puede percibir. 
 
 **6. Bibliografia**
 
