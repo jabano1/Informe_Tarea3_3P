@@ -67,6 +67,58 @@ NRC: 7318
 
 **3. Ejercicios Resueltos**
 
+**CAPITULO 17**
+
+**2. Determine la impedancia en la figura 17-59 y exprésela en forma polar.**
+
+![image](https://user-images.githubusercontent.com/105677231/187316837-b8bace3b-a903-483e-b83e-03a14f8a7551.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187316864-5418eecb-7e4e-436c-bb01-f7ba9470ab5c.png)
+
+**4.	Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.**
+
+![image](https://user-images.githubusercontent.com/105677231/187316929-82f5d09b-c5be-4837-87c4-d1220f12b298.png)
+
+**6. Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59.**
+
+![image](https://user-images.githubusercontent.com/105677231/187316980-7393a5d7-8aaf-4fe2-a78a-fdd73ffb1c91.png)
+
+**10. En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante**
+
+![image](https://user-images.githubusercontent.com/105677231/187317013-bf48445c-e01c-448c-b484-a6261c74b6f6.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187317043-351b06ab-425a-4371-8e99-ef9963f22825.png)
+
+**12. Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.**
+
+![image](https://user-images.githubusercontent.com/105677231/187317066-c31a5885-0d94-47b2-8638-29b54d812114.png)
+
+![image](https://user-images.githubusercontent.com/105677231/187317091-e505d21d-834d-4c93-9ec5-9721a382b829.png)
+
+**14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias
+críticas. ¿Cuál es el ángulo de fase en condición de resonancia?**
+
+![image](https://user-images.githubusercontent.com/105677231/187317138-66c88ff5-035d-49a9-8e7f-cd353c107af1.png)
+
+**16. Exprese en forma polar la impedancia del circuito de la figura 17-63.**
+
+![image](https://user-images.githubusercontent.com/105677231/187317159-0f320c74-1051-4d1d-859f-f61e585eb178.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187317189-20e558b1-0732-4940-a711-f48695f18ede.png)
+
+**18. ¿A qué frecuencia el circuito de la figura 17-63 cambia su característica reactiva (de inductiva a capacitiva
+o viceversa)?**
+
+![image](https://user-images.githubusercontent.com/105677231/187317255-2fc7e97c-2595-42fd-a6ad-a8e5ea9741f6.png)
+
+
+
 
 
 **4. Video**
