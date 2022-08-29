@@ -117,9 +117,125 @@ o viceversa)?**
 
 ![image](https://user-images.githubusercontent.com/105677231/187317255-2fc7e97c-2595-42fd-a6ad-a8e5ea9741f6.png)
 
+**20. Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.**
 
+![image](https://user-images.githubusercontent.com/105677231/187317443-74f591ab-66cc-4386-bc16-903c971846a9.png)
 
+Solucion:
 
+![image](https://user-images.githubusercontent.com/105677231/187317552-0b696f98-4f53-49ca-8130-646456dd312a.png)
+
+**22. ¿Cuál es la impedancia de un circuito resonante ideal dispuesto en paralelo (sin resistencia en las ramas)?**
+
+-Dado que la corriente es total es de cero, la impedancia total del circuito LC en paralelo es infinitamente grande, es decir la impedancia es máxima a la frecuencia resonante y disminuye a frecuencias más bajas y más altas. 
+
+**24. ¿Cuánta corriente se extrae de la fuente de la figura 17-64 en condición de resonancia? ¿Cuáles son las corrientes inductiva y capacitiva en la frecuencia resonante?**
+
+![image](https://user-images.githubusercontent.com/105677231/187317617-2e4cecff-9d3a-43a6-a0d7-c4d09f0de613.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187317639-b21f8122-8f11-4893-84af-704d5df6f13f.png)
+
+**26. Encuentre la impedancia total para cada circuito de la figura 17-65**
+
+![image](https://user-images.githubusercontent.com/105677231/187317663-dc001b19-f55b-486b-a770-a88c72341394.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187317741-5b885f44-f3af-4522-8a5f-435ebd36f923.png)
+
+**28. Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.**
+
+![image](https://user-images.githubusercontent.com/105677231/187317759-105e69b5-dd2f-4127-ba98-9b98ef8a5b9f.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187317848-b05443b1-f42b-4b75-ac5f-b945d7d5523a.png)
+
+![image](https://user-images.githubusercontent.com/105677231/187317892-3c526878-3d14-4c2a-86b6-e7d54f08c262.png)
+
+**30. ¿Cuál es la corriente a través de R2 en la figura 17-67?**
+
+![image](https://user-images.githubusercontent.com/105677231/187317924-9d0f0cf2-beae-4f56-a24e-bf0d2f38ccb6.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318055-f0f2beae-447b-46a2-86d6-bf2077534dff.png)
+
+![image](https://user-images.githubusercontent.com/105677231/187318102-b1bd12c7-1079-4051-8e3e-8f21dc2b6165.png)
+
+**32.Determine la resistencia y la reactancia totales en la figura 17-68.**
+
+![image](https://user-images.githubusercontent.com/105677231/187318128-5da9afcb-26db-41cf-acff-0b4150caf008.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318137-9902343f-2308-4d94-bf27-47a89f8bef2b.png)
+
+**34. Determine si existe un valor de C que hará Vab = 0 V en la figura 17-69. Si no lo hay, explique la razón.**
+
+![image](https://user-images.githubusercontent.com/105677231/187318164-a6865a6f-9021-4598-ba07-a31367a2af4c.png)
+
+-No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia siendo así que, el voltaje de ab solo pueda tener un ángulo de fase de (0°, 90°, -90°), y que él Va no es igual al Vb en magnitud ni en ángulo de fase.
+
+**36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué? **
+
+![image](https://user-images.githubusercontent.com/105677231/187318202-d7283730-b8ef-4467-a3c1-abda94e18684.png)
+
+-Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
+
+***
+
+**CAPITULO 18**
+
+**12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:**
+
+![image](https://user-images.githubusercontent.com/105677231/187318313-13358558-0227-4936-a672-8325084b60cb.png)
+
+**14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent =10 V).**
+
+![image](https://user-images.githubusercontent.com/105677231/187318339-314c6cd7-3362-4e8f-bc23-cc65d862d601.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318372-89c0a175-d31f-4c3a-8cbb-94ef1eda1400.png)
+
+**16. Determine fc para cada una de las posiciones del interruptor en la figura 18-42.**
+
+![image](https://user-images.githubusercontent.com/105677231/187318414-4a72244a-758b-462d-aa06-6b093f2bd173.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318465-ba088bd9-e4a7-4ef0-8f4e-8be577f5347e.png)
+
+**18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10Ω, determine el ancho de banda para cada filtro.**
+
+![image](https://user-images.githubusercontent.com/105677231/187318485-f6ceaa75-32b3-4bd0-8398-1109d59be842.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318509-de2e6603-0052-44d8-aa3f-c5f47357061e.png)
+
+**20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW.**
+
+![image](https://user-images.githubusercontent.com/105677231/187318541-103656b8-a7ce-4b20-b93d-07649402069d.png)
+
+**24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.**
+
+![image](https://user-images.githubusercontent.com/105677231/187318588-d42d8a25-89ba-48df-8b9e-08bae86538c9.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318619-25da6d68-3959-456a-8f3e-21cefa9359f6.png)
+
+**26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Ω, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent = 50 V?**
+
+![image](https://user-images.githubusercontent.com/105677231/187318645-909d2da0-3c59-4ef1-b12f-b029939e91ef.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187318682-c5bb07fb-8ff3-4e0e-b52a-87c0e85e0ba6.png)
 
 **4. Video**
 
