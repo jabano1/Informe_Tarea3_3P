@@ -185,6 +185,17 @@ Solucion:
 
 -Hay dos frecuencias resonantes en el circuito ya que, se necesita calcular la frecuencia resonante paralela y en serie.
 
+**38. Diseñe una red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 µH con resistencia de devanado de 5 Ω.**
+
+![image](https://user-images.githubusercontent.com/105677231/187340045-e2ef8db5-a81e-495e-9cff-6e29fe9596b0.png)
+
+**40. Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?**
+
+![image](https://user-images.githubusercontent.com/105677231/187340088-d149e45c-fe3b-4168-ac1b-da95ff1bb45f.png)
+
+
+
+
 ***
 
 **CAPITULO 18**
