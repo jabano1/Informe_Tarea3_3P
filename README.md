@@ -193,12 +193,47 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/187340088-d149e45c-fe3b-4168-ac1b-da95ff1bb45f.png)
 
+**42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.**
 
-
+![image](https://user-images.githubusercontent.com/105677231/187340142-97a1a712-ac23-4b0e-8209-3ae45ca97c7d.png)
 
 ***
 
 **CAPITULO 18**
+
+**2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas: **
+
+**(a)** 100 Hz = permite
+
+**(b)** 1 kHz = permite
+
+**(c)** 2 kHz = permite
+
+**(d)** 3 kHz = permite
+
+**(e)** 5 kHz = permite
+
+**4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent 5 V.**
+
+![image](https://user-images.githubusercontent.com/105677231/187340307-211ff7df-8e22-4dbd-a2dc-eb976533f924.png)
+
+![image](https://user-images.githubusercontent.com/105677231/187340332-564a2eb4-ed72-431a-99ad-447003c6b6c0.png)
+
+**6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.**
+
+![image](https://user-images.githubusercontent.com/105677231/187340407-21f938ac-302e-4e6f-9248-4d5d3ee6a2b7.png)
+
+Solucion:
+
+![image](https://user-images.githubusercontent.com/105677231/187340462-7b1aed96-5106-44d5-b25f-811bb8adbd62.png)
+
+**8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB**
+
+![image](https://user-images.githubusercontent.com/105677231/187340501-e8640221-32ed-4aa5-a2b0-c4bf756d2fc3.png)
+
+**10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc 1 kHz): **
+
+![image](https://user-images.githubusercontent.com/105677231/187340520-39c0ec0c-b01d-4e9e-a233-b4df1e07fa69.png)
 
 **12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:**
 
