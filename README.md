@@ -239,6 +239,8 @@ Solucion:
 
 **4. Video**
 
+https://youtu.be/wcPAjifX4Ho
+
 **5. Conclusiones**
 
 - En conclusion los circuitos presentados en estos capitulos tienen inductancia y capacitancia, dando como propiedad a los circuitos resonantes, los cuales son importantes en algunas aplicaciones del ser humano.
