@@ -179,7 +179,7 @@ Solucion:
 
 -No puede ser Vab = 0 V, ya que, la rama LC no presenta resistencia siendo así que, el voltaje de ab solo pueda tener un ángulo de fase de (0°, 90°, -90°), y que él Va no es igual al Vb en magnitud ni en ángulo de fase.
 
-**36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué? **
+**36. ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?**
 
 ![image](https://user-images.githubusercontent.com/105677231/187318202-d7283730-b8ef-4467-a3c1-abda94e18684.png)
 
