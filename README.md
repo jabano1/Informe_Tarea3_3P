@@ -201,7 +201,7 @@ Solucion:
 
 **CAPITULO 18**
 
-**2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas: **
+**2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:**
 
 **(a)** 100 Hz = permite
 
@@ -231,7 +231,7 @@ Solucion:
 
 ![image](https://user-images.githubusercontent.com/105677231/187340501-e8640221-32ed-4aa5-a2b0-c4bf756d2fc3.png)
 
-**10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc 1 kHz): **
+**10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc 1 kHz):**
 
 ![image](https://user-images.githubusercontent.com/105677231/187340520-39c0ec0c-b01d-4e9e-a233-b4df1e07fa69.png)
 
